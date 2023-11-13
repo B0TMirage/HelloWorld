@@ -19,9 +19,13 @@
 
 # Кодь
 ```javascript
-let a = 1234
+let a = 1234;
 ```
 
 ```python
-print('Hello World');
+c = a + 10000
+```
+
+```php
+echo c;
 ```
